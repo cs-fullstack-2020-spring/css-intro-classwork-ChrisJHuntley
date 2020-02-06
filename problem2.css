@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    color: blue;
+    padding: 1px;
+}
+strong{
+    color: green;
+}  
+    
+p{
+    background-color:gray ;
+}
